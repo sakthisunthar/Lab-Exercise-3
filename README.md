@@ -2,7 +2,7 @@
 ##What is Heuristic Evaluation?
 Heuristic Evaluation is a structured usability inspection method where a UX evaluator reviews an interface against Jakob Nielsen’s 10 core principles. Rather than testing with end-users, this expert-driven approach systematically highlights friction points, navigation breakdowns, and design inconsistencies across the entire user journey.
 
-##Nielsen's 10 Heuristics Explained
+## Nielsen's 10 Heuristics Explained
 1. Visibility of System Status: The app must always communicate what is happening behind the scenes through timely feedback and visual indicators, ensuring users never wonder whether an action succeeded.
 
 2. Match Between System and Real World: Interfaces should speak the user's language by utilizing familiar terminology, real-world concepts, and intuitive visual metaphors rather than complex system jargon.
@@ -23,7 +23,7 @@ Heuristic Evaluation is a structured usability inspection method where a UX eval
 
 10. Help and Documentation: While the interface should ideally be intuitive enough to use without instructions, accessible search features, clear FAQs, and proactive guidance should be available whenever help is needed.
 
-##Existing App Selected: Spotify
+## Existing App Selected: Spotify
 Identified Usability Problems
 Evaluating Spotify against these heuristics reveals several notable usability issues. Regarding Visibility of System Status, Spotify's offline download indicator often fails to reflect actual network speeds or pending statuses during poor connectivity. The app satisfies Match Between System and Real World well through familiar playback metaphors like "Library," "Playlists," and "Queue." However, User Control and Freedom suffers because accidentally clearing or reordering a track queue cannot be quickly undone, forcing manual track recovery.
 
@@ -70,5 +70,5 @@ Previously, Spotify's Home feed forced music, podcasts, and audiobooks into a si
 
 Previously, lost internet connectivity produced generic "Something went wrong" pop-ups that left users stranded. After the redesign, Spotify displays clear system diagnostic banners with a direct "Switch to Downloaded Music" quick action button.
 
-##Conclusion
+## Conclusion
 Spotify remains a powerful and feature-rich audio platform, standing out against YouTube Music through superior social sharing and personal playlist curation. However, its user experience is hindered by queue management risks, menu inconsistencies, and a crowded main interface. By implementing targeted error-prevention prompts, customizable feed filters, and standardized contextual menus, Spotify can significantly decrease friction and deliver a far safer, cleaner user experience.
